@@ -134,7 +134,7 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2023** Webinar on **Tuesday, March 30th at 6:00PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+JOIN the **Deakin Simpsons Challenge 2023** Webinar on **Tuesday, March 21th at 6:00PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
 
 Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023)!
 
