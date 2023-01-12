@@ -36,7 +36,7 @@ The challenge is designed to provide students with the opportunity to work as te
 
 As participants, your goal is to build a machine learning/deep learning model to  answer a natural language **Yes**/**No** question  given an image of Simpsons. 
 
-Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/) platform to be evaluated. 
+Once you have built your model, you will have to submit it on the [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9663?secret_key=0102acb9-fb09-4f23-acc9-9945ffb0f427) platform to be evaluated. 
 We evaluate the performance of your model using the [Accuracy](https://scikit-learn.org/stable/modules/generated/sklearn.metrics.accuracy_score.html)  on a private test set that we have directly collected and labeled from TV show episodes.
 Once the evaluation completed, your entry will appear on the leaderboard to see your performance against other competitors.
 
@@ -117,9 +117,9 @@ This competition serves many purposes:
 
 Follow these steps:
 
-1. Register to the [CodaLab](https://codalab.lisn.upsaclay.fr/accounts/login/?next=/) platform, then register to the competition on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/).
+1. Register to the [CodaLab](https://codalab.lisn.upsaclay.fr/accounts/login/?next=/) platform, then register to the competition on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9663?secret_key=0102acb9-fb09-4f23-acc9-9945ffb0f427).
 3. You can participate individually or in a team. There cannot be more than 3 students in a team **(all team members need to register to the competition)**.
-4. To find team members, you can post a message on the discussion forum on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
+4. To find team members, you can post a message on the discussion forum on [CodaLab](https://codalab.lisn.upsaclay.fr/competitions/9663?secret_key=0102acb9-fb09-4f23-acc9-9945ffb0f427). Once you have built your team, the team leader needs to contact [Mohamed Reda Bouadjenek](https://rbouadjenek.github.io/) with the names of the members, their **CodaLab usernames**, the Deakin course in which they are enrolled, and the name of the team.
 5. Please [fork this GitHub repository](https://github.com/rbouadjenek/deakin-ai-challenge2023/fork) and make it **private**. Then, click [here to open the Notebook in Google Colab ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/rbouadjenek/deakin-ai-challenge2023/blob/main/deakin_ai_challenge_training.ipynb). 
 6. If needed, we can provide you with paid Google Cloud resources to train your model (which includes a large amount of GPU resources). However, you need to make a first submission and demonstrate your commitment to the challenge.
 <p align="center">
