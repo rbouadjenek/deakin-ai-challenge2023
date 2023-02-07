@@ -58,11 +58,13 @@ TBD.
 # Timeline <a name="Timeline"></a>
 - 21.03.23: Contest and Phase 1 Begin (Validation Leaderboard opens).
 - 21.03.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
-- 04.06.23: Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- 18.06.23: Last Shot & Contest End (Testing Leaderboard closes).
-- 20.06.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- 09.07.23: Report & Code Due.
-- 16.07.23: Winners Announcement.
+- 25.03.23: Burwood workshop for hands-on and mentorship at 10:00 AM to 5:00 PM (lunch will be provided).
+- 26.03.23: Geelong workshop for hands-on and mentorship at 10:00 AM to 5:00 PM (lunch will be provided).
+- ??.04.23: Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
+- 30.04.23: Last Shot & Contest End (Testing Leaderboard closes).
+- 03.05.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- 21.05.23: Report & Code Due.
+- 28.05.23: Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
