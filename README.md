@@ -56,15 +56,14 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- 21.03.23: Contest and Phase 1 Begin (Validation Leaderboard opens).
-- 21.03.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
-- 25.03.23: Burwood workshop for hands-on and mentorship at 10:00 AM to 5:00 PM (lunch will be provided).
-- 26.03.23: Geelong workshop for hands-on and mentorship at 10:00 AM to 5:00 PM (lunch will be provided).
-- ??.04.23: Phase 2 Begin (Testing Leaderboard opens) 🚨 **ONLY TWO SUBMISSIONS ARE ALLOWED FOR THE TEST PHASE! PLEASE MAKE SURE TO SUBMIT YOUR BEST MODEL FROM  PHASE 1!** 🚨.
-- 30.04.23: Last Shot & Contest End (Testing Leaderboard closes).
-- 03.05.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- 21.05.23: Report & Code Due.
-- 28.05.23: Winners Announcement.
+- 25.04.23: Contest begins (Leaderboard opens).
+- 25.04.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
+- 29.04.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
+- 06.05.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
+- 18.06.23: Last Shot & Contest End (Leaderboard closes).
+- 25.06.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- 09.07.23: Report & Code Due.
+- 16.07.23: Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
@@ -89,10 +88,9 @@ The winners of the **Deakin Simpsons Challenge 2023** await non-cash prizes wort
 The prizes will be distributed among the participants as follows:
 
 - 🥇 The 1st Place receives a non-cash prize equivalent of 🏆**AUD800**🏆.
-- 🥈 The 2nd Place receives a non-cash prize equivalent of **AUD600**.
+- 🥈 The 2nd Place receives a non-cash prize equivalent of **AUD500**.
 - 🥉 The 3rd Place receives a non-cash prize equivalent of **AUD300**.
-- 🎁 The 4th Place will also receive a non-cash prize equivalent of **AUD200**.
-- 🎁 The 5th Place will also receive a non-cash prize equivalent of **AUD100**.
+- 🎁 The 4th to 10th Place will also receive a non-cash prize equivalent of **AUD200**.
 
 
 <!---
