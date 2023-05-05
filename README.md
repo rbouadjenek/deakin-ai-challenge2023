@@ -57,7 +57,7 @@ TBD.
 
 # Timeline <a name="Timeline"></a>
 - 16.05.23: Contest begins (Leaderboard opens).
-- 16.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
+- 16.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023-webinar-tickets-631345801287).
 - 20.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
 - 27.05.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
 - 02.07.23: Last Shot & Contest End (Leaderboard closes).
@@ -134,9 +134,9 @@ We wish you all the best!
 
 
 
-JOIN the **Deakin Simpsons Challenge 2023** Webinar on **Tuesday, March 21th at 6:00PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
+JOIN the **Deakin Simpsons Challenge 2023** Webinar on **Tuesday, May 16th at 6:00PM**. This webinar will review procedures and tips for participating and offer a live Q&A session with the challenge organizers and AI experts.
 
-Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023)!
+Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023-webinar-tickets-631345801287)!
 
 
 [Link to the Webinar recording!]()
