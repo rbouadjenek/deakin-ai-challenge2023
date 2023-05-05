@@ -56,14 +56,14 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 TBD.
 
 # Timeline <a name="Timeline"></a>
-- 02.05.23: Contest begins (Leaderboard opens).
-- 09.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
-- 13.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
-- 20.05.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
-- 25.06.23: Last Shot & Contest End (Leaderboard closes).
-- 02.07.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- 16.07.23: Report & Code Due.
-- 23.07.23: Winners Announcement.
+- 16.05.23: Contest begins (Leaderboard opens).
+- 16.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session]().
+- 20.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
+- 27.05.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
+- 02.07.23: Last Shot & Contest End (Leaderboard closes).
+- 09.07.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- 23.07.23: Report & Code Due.
+- 30.07.23: Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
