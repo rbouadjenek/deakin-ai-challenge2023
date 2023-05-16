@@ -139,7 +139,7 @@ JOIN the **Deakin Simpsons Challenge 2023** Webinar on **Tuesday, May 16th at 6:
 Please [register for the Webinar here](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023-webinar-tickets-631345801287)!
 
 
-[Link to the Webinar recording!]()
+[Link to the Webinar recording!](https://deakin.zoom.us/rec/share/-Gr4obZeTsSMcsR5yGv0YOgFwEyqS19hbCO52nfHd8npqKPyD1tupnf465fdAJt-.PxHfSc3m8Dq6buPD)
 
 
 
