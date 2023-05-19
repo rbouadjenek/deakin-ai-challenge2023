@@ -58,8 +58,8 @@ TBD.
 # Timeline <a name="Timeline"></a>
 - 16.05.23: Contest begins (Leaderboard opens).
 - 16.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023-webinar-tickets-631345801287).
-- 20.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
-- 27.05.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
+- 27.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided) [Register here!](https://www.eventbrite.com.au/e/639364334937).
+- ?.06.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
 - 02.07.23: Last Shot & Contest End (Leaderboard closes).
 - 09.07.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
 - 23.07.23: Report & Code Due.
