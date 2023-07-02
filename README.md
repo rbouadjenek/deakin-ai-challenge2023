@@ -59,11 +59,11 @@ TBD.
 - 16.05.23: Contest begins (Leaderboard opens).
 - 16.05.23: [Join the Webinar at 6:00 PM to review procedures and for a live Q&A session](https://www.eventbrite.com.au/e/deakin-simpsons-challenge-2023-webinar-tickets-631345801287).
 - 27.05.23: Burwood workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided) [Register here!](https://www.eventbrite.com.au/e/639364334937) The event will take place at Deakin Burwood Campus, Building T Level 1 (Ground Floor).
-- ?.06.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).
-- 02.07.23: Last Shot & Contest End (Leaderboard closes).
-- 09.07.23: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
-- 23.07.23: Report & Code Due.
-- 30.07.23: Winners Announcement.
+- <s>?.06.23: Geelong workshop for hands-on and mentorship at 11:00 AM to 4:00 PM (lunch will be provided).</s>
+- 16.07.23 <s>02.07.23</s>: Last Shot & Contest End (Leaderboard closes).
+- 23.07.23 <s>09.07.23</s>: Semi-Finalists Announcement (top six teams on the Testing Leaderboard).
+- 06.08.23 <s>23.07.23</s>: Report & Code Due.
+- 13.08.23 <s>30.07.23</s>: Winners Announcement.
 
 # Eligibility<a name="Eligibility"></a>
 
