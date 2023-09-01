@@ -58,7 +58,7 @@ The winners of the competition are:
 2. **trishtan** (Accuracy = 58.00) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/3-trishtan.pdf)] [[code]()] 🥈
 3. **Gavinnf** (Accuracy = 55.60 ) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/4-Gavinnf.pdf)] [[code]()] 🥉
 4. **AAlkinani** (Accuracy = 54.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/6-AAlkinani.pdf)] [[code]()] 🎁
-4. **Apu’s Algorithms** (Accuracy = 54.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/5-Apu_s_Algorithms.pdf)] [[code]()] 🎁
+4. **Apu’s Algorithms** (Accuracy = 54.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/5-Apu_s_Algorithms.pdf)] [[code](https://github.com/NIFolia/DeakinSimpsonChallenge2023)] 🎁
 
 # Timeline <a name="Timeline"></a>
 - 16.05.23: Contest begins (Leaderboard opens).
