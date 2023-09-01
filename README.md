@@ -53,7 +53,12 @@ In the Notebook that we provide for starting, we will take you through  a 6-step
 
 # Winners <a name="winners"></a>
 
-TBD.
+The winners of the competition are:
+1. **usedpython** (Accuracy = 59.60) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/1-usedpython.pdf)] [[code](https://github.com/brandonsmith301/deakin-ai-challenge)] 🥇
+2. **trishtan** (Accuracy = 58.00) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/3-trishtan.pdf)] [[code]()] 🥈
+3. **Gavinnf** (Accuracy = 55.60 ) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/4-Gavinnf.pdf)] [[code]()] 🥉
+4. **AAlkinani** (Accuracy = 54.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/6-AAlkinani.pdf)] [[code]()] 🎁
+4. **Apu’s Algorithms** (Accuracy = 54.40) [[report](https://rbouadjenek.github.io/deakin-ai-challenge2023/reports/5-Apu_s_Algorithms.pdf)] [[code]()] 🎁
 
 # Timeline <a name="Timeline"></a>
 - 16.05.23: Contest begins (Leaderboard opens).
@@ -87,10 +92,13 @@ The winners of the **Deakin Simpsons Challenge 2023** await non-cash prizes wort
 
 The prizes will be distributed among the participants as follows:
 
-- 🥇 The 1st Place receives a non-cash prize equivalent of 🏆**AUD800**🏆.
-- 🥈 The 2nd Place receives a non-cash prize equivalent of **AUD500**.
-- 🥉 The 3rd Place receives a non-cash prize equivalent of **AUD300**.
-- 🎁 The 4th to 10th Place will also receive a non-cash prize equivalent of **AUD200**.
+- 🥇 The 1st Place receives a non-cash prize equivalent of 🏆**AUD1,000**🏆.
+- 🥈 The 2nd Place receives a non-cash prize equivalent of **AUD800**.
+- 🥉 The 3rd Place receives a non-cash prize equivalent of **AUD600**.
+- 🎁 The 4th Place will also receive a non-cash prize equivalent of **AUD300**.
+- 🎁 The 5th Place will also receive a non-cash prize equivalent of **AUD300**.
+
+
 
 
 <!---
